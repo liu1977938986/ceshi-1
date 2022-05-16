@@ -1,0 +1,190 @@
+header {
+    height: 83px;
+    border-bottom: 2px solid #b1191a;
+ 
+    position: relative;
+}
+header .logo{
+    position: absolute;
+    width: 179px;
+    height: 63px;
+  
+    bottom:8px;
+   
+}
+header .logo a {
+    display: block;
+    font-size: 0;
+    background: url(../images/pinyou.com.png) no-repeat;
+    width: 179px;
+    height: 63px;
+}
+.biaodan {
+    height: 520px;
+   
+    margin:20px auto 0;
+    border: solid 1px #ccc;
+    width: 1200px;
+    position: relative;
+}
+.biaodan nav {
+    height: 40px;
+    background-color: #ececec;
+    padding: 0 10px;
+    line-height: 40px;
+}
+.biaodan nav h3 {
+    float: left;
+    font-size: 18px;
+    color: #333;
+    font-weight: 400;
+    
+}
+.biaodan nav .right {
+    float: right;
+    font-size: 14px;
+    color: #333;
+
+}
+.biaodan nav .right a {
+    color: #c81623;
+}
+.biaodan .zhuce_bd {
+    height: 480px;
+    margin-left: 311px;
+    
+    width: 700px;
+    
+}
+.biaodan .zhuce_bd div {
+    font-size: 14px;
+    color: #4d4d4d;
+  
+    height: 35px;
+}
+.biaodan .zhuce_bd .tel {
+    margin-top: 55px;
+    margin-left: 28px;
+}
+.biaodan .zhuce_bd input {
+    width: 240px;
+    height: 35px;
+    border: 1px solid #999;
+    display: inline-block;
+}
+.biaodan .zhuce_bd .margin {
+    margin-top: 21px;
+    
+}
+.biaodan .zhuce_bd .passwordtwo {
+    margin-top: 45px;
+    margin-left: 14px;
+}
+.biaodan .zhuce_bd .password {
+    margin-left: 14px;
+}
+.biaodan .zhuce_bd .agree {
+    width: 500px;
+    height: 16px;
+   margin-top: 42px;
+   vertical-align: middle;
+   margin-left: 85px;
+}
+.biaodan .zhuce_bd .agree span {
+    font-size: 12px;
+    color: #4d4d4d;
+}
+
+.biaodan .zhuce_bd .agree [type="checkbox"] {
+    height: 14px;
+    width: 14px;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+.biaodan .zhuce_bd .agree span i a{
+   color: #1ba1e6;
+}
+.biaodan .zhuce_bd .wancheng .wanchengzhizuo {
+    width: 200px;
+    height: 35px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #c81623;
+    margin-top: 50px;
+    margin-left: 92px;
+}
+.footer {
+    height: 120px;
+    margin-top: 50px;
+}
+.biaodan .zhuce_bd .same {
+    font-size: 12px;
+    color: #df3033;
+    
+}
+.biaodan .zhuce_bd .same .one {
+    position: absolute;
+    top: 138px;
+    left:652px;
+    font-size: 12px;
+    color: #df3033;
+    
+}
+.biaodan .zhuce_bd .same .two {
+    position: absolute;
+    left:652px;
+    top: 251px;
+    font-size: 12px;
+    color: #df3033;
+}
+.biaodan .zhuce_bd .same .three {
+    position: absolute;
+    left:652px;
+    top: 331px;
+    font-size: 12px;
+    color: #df3033;
+}
+.biaodan .zhuce_bd .zhuyi {
+position: absolute;
+top: 285px;
+left: 488px;
+height: 12px;
+
+}
+.biaodan .zhuce_bd .zhuyi ul {
+    width: 100px;
+    height: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -3px;
+    
+}
+.biaodan .zhuce_bd .zhuyi ul li {
+    height: 12px;
+    font-size: 12px;
+    line-height: 12px;
+    text-align: center;
+    float: left;
+    width: 31px;
+}
+.biaodan .zhuce_bd .zhuyi ul li:first-child {
+    background-color: #de1111;
+}
+.biaodan .zhuce_bd .zhuyi ul li:nth-child(2) {
+    background-color: #40b83f;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+}
+.biaodan .zhuce_bd .zhuyi ul li:nth-child(3) {
+    background-color: #f79100;
+}
+.biaodan .zhuce_bd .zhuyi ul li {
+    color: #fff;
+}
+.biaodan .zhuce_bd .zhuyi span {
+    font-size: 12px;
+    color: #b2b2b2;
+    
+    
+}
+
